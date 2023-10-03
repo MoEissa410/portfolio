@@ -24,22 +24,23 @@ const Skills = () => {
                 <div className="right-col">
                     <h2>Skills</h2>
                     <p>
+                        <span>React js</span>
+                        <span>next js</span>
+                        <span>JavaScript</span>
+                        <span>Typescript</span>
+                        <span>jQuery</span>
+                        <span>OOP</span>
+                        <span>react-query</span>
+                        <span>Redux & Redux Toolkit</span>
+                        <span>Style Component</span>
+                        <span>JASON</span>
+                        <span>Tailwind Css</span>
+                        <span>material ui</span>
+                        <span>bootstrap</span>
+                        <span>Git, GitHub</span>
                         <span>HTML5</span>
                         <span>CSS3</span>
                         <span>Sass</span>
-                        <span>Tailwind Css</span>
-                        <span>bootstrap</span>
-                        <span>JASON</span>
-                        <span>OOP</span>
-                        <span>material ui</span>
-                        <span>jQuery</span>
-                        <span>JavaScript</span>
-                        <span>React js</span>
-                        <span>Redux & Redux Toolkit</span>
-                        <span>react-query</span>
-                        <span>next js</span>
-                        <span>Style Component</span>
-                        <span>Git, GitHub</span>
                     </p>
                     <CallToAction
                         text="Download CV"
