@@ -36,6 +36,7 @@ const Skills = () => {
                         <span>JavaScript</span>
                         <span>React js</span>
                         <span>Redux & Redux Toolkit</span>
+                        <span>react-query</span>
                         <span>next js</span>
                         <span>Style Component</span>
                         <span>Git, GitHub</span>
