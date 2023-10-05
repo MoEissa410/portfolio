@@ -94,6 +94,7 @@
                 margin-bottom: 30px;
                 @include small-screen {
                     margin-bottom: 40px;
+                    width: 63%;
                 }
                 @include large-screen {
                     margin-bottom: 50px;
